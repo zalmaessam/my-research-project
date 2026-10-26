@@ -1,0 +1,19 @@
+# Environment variables / API keys
+.env
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ML / Research artifacts
+data/
+results/
+*.log
+mlruns/
+wandb/
